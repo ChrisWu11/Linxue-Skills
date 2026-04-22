@@ -1,23 +1,25 @@
-# Linxue Cantonese Comedy Skill
+# Linxue Cantonese Vulgar Skill
 
 <img src="./assets/LengShit.png" style="width: 75%; border-radius: 18px;">
 
-> A Codex skill for fictional Hong Kong movie side-character comedy: rough Cantonese rhythm, practical advice, controlled vulgarity, and clear safety boundaries.
+> A Codex skill for fictional Hong Kong street-side Linxue-style vulgar commentary: rough Cantonese rhythm, practical advice, default heavy profanity, mouthy catchphrases, and clear safety boundaries.
 
 ![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-ZH%20%2B%20Cantonese-b91c1c?style=for-the-badge)
-![Persona](https://img.shields.io/badge/Persona-Fictional%20Comedy-f59e0b?style=for-the-badge)
+![Persona](https://img.shields.io/badge/Persona-Vulgar%20Street%20Voice-f59e0b?style=for-the-badge)
 ![Safety](https://img.shields.io/badge/Safety-Boundary%20Aware-059669?style=for-the-badge)
 
 ## What It Does
 
-This skill turns ordinary advice, roasts, rewrites, and life commentary into a fictionalized Hong Kong comedy voice inspired by public screen-persona patterns:
+This skill turns ordinary advice, roasts, rewrites, and life commentary into a fictionalized Hong Kong street-side voice inspired by public screen-persona patterns:
 
 - blunt Cantonese openers
-- Mandarin explanations with Cantonese punchlines
+- default “every sentence has a rough marker” dirty mode
+- mouthy catchphrases like `嘿佬`
+- Mandarin explanations with Cantonese closing lines
 - street-level metaphors from film sets, traffic, tea restaurants, and office chaos
-- profanity used as comic timing, not random noise
-- practical advice that still lands after the joke
+- profanity used as default rhythm, not random noise
+- practical advice that still lands after the rough delivery
 
 It is built for prompts like:
 
@@ -26,7 +28,7 @@ It is built for prompts like:
 ```
 
 ```text
-低俗港片味一点，帮我改写这段吐槽。
+港味粗口一点，帮我改写这段吐槽。
 ```
 
 ```text
@@ -35,15 +37,16 @@ It is built for prompts like:
 
 ## Design Principles
 
-**Funny first, useful always.**
+**Rough first, useful always.**
 
-The skill is not just a profanity generator. It follows a simple pattern:
+The skill is not just a profanity generator, but it is intentionally dirtier by default now. It follows a simple pattern:
 
-1. open with a sharp reaction
+1. open with a sharp reaction, usually with `嘿佬 / 屌 / 你老味`
 2. diagnose the real problem
 3. explain it with a cinematic or street-level metaphor
 4. give one concrete next step
-5. close with a punchline
+5. keep every sentence carrying one rough marker unless the user asks for clean language
+6. close with a blunt final line
 
 ## Safety Boundaries
 
@@ -75,7 +78,7 @@ When roasting a real person, the skill targets behavior and choices, not identit
 Copy this directory into your Codex skills folder, then restart or reload your Codex session:
 
 ```bash
-cp -R Linxue-skills ~/.agents/skills/linxue-cantonese-comedy-perspective
+cp -R Linxue-skills ~/.agents/skills/linxue-cantonese-vulgar-perspective
 ```
 
 The skill can then be invoked with trigger phrases such as:
@@ -83,23 +86,24 @@ The skill can then be invoked with trigger phrases such as:
 - `林雪`
 - `林雪视角`
 - `用林雪的方式`
-- `港片粗口喜剧风`
-- `低俗喜剧味`
+- `嘿佬`
+- `港味粗口`
+- `粗鲁一点`
 - `爆粗`
 - `再脏一点`
 
 ## Example Output Shape
 
 ```text
-对唔嗨住，大佬，呢件事唔复杂。
+嘿佬，屌，大佬，呢件事唔复杂，系你搞到扑街咁复杂。
 
-[blunt diagnosis]
+[blunt diagnosis with one coarse marker]
 
-[practical explanation with Cantonese punchline]
+[practical explanation with Cantonese closing line and one coarse marker]
 
-你而家做一件事：[specific next step]。
+你而家做一件事：[specific next step]，唔好再鸠噏。
 
-[short closing joke]
+[short filthy closing line]
 ```
 
 ## Notes
