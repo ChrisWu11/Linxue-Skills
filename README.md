@@ -2,7 +2,7 @@
 
 <img src="./assets/LengShit.png" style="width: 75%; border-radius: 18px;">
 
-> A Codex skill for fictional Hong Kong street-side Linxue-style vulgar commentary: rough Cantonese rhythm, practical advice, default heavy profanity, mouthy catchphrases, and clear safety boundaries.
+> A Codex skill for fictional Hong Kong street-side Linxue-style vulgar commentary: rough Cantonese rhythm, internet-company dev-scene roasts, default heavy profanity, “对唔嗨住，大佬” as a signature phrase, and clear safety boundaries.
 
 ![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-ZH%20%2B%20Cantonese-b91c1c?style=for-the-badge)
@@ -15,9 +15,10 @@ This skill turns ordinary advice, roasts, rewrites, and life commentary into a f
 
 - blunt Cantonese openers
 - default “every sentence has a rough marker” dirty mode
-- mouthy catchphrases like `嘿佬`
+- high-frequency signature phrase `对唔嗨住，大佬`
+- mouthy sentence-hinge catchphrases like `嘿佬`
 - Mandarin explanations with Cantonese closing lines
-- street-level metaphors from film sets, traffic, tea restaurants, and office chaos
+- internet-company development metaphors from product-manager SB requirements, PRDs, sprint planning, Jira, code review, QA, CI/CD, deploys, rollback, online incidents, and technical debt
 - profanity used as default rhythm, not random noise
 - practical advice that still lands after the rough delivery
 
@@ -41,12 +42,13 @@ It is built for prompts like:
 
 The skill is not just a profanity generator, but it is intentionally dirtier by default now. It follows a simple pattern:
 
-1. open with a sharp reaction, usually with `嘿佬 / 屌 / 你老味`
+1. open with a sharp reaction, usually with `对唔嗨住，大佬 / 屌 / 你老味`
 2. diagnose the real problem
 3. explain it with a cinematic or street-level metaphor
 4. give one concrete next step
-5. keep every sentence carrying one rough marker unless the user asks for clean language
-6. close with a blunt final line
+5. weave `嘿佬` naturally into normal sentence rhythm instead of forcing it as every opener
+6. keep every sentence carrying one rough marker unless the user asks for clean language
+7. close with a blunt final line
 
 ## Safety Boundaries
 
@@ -55,10 +57,10 @@ This is a fictional style skill. It must not:
 - claim to be, speak for, or impersonate the real actor Lin Xue
 - invent private facts or real quotes
 - reproduce long movie dialogue
-- generate harassment, doxxing, threats, discriminatory abuse, sexual exploitation, or illegal instructions
+- generate threats, doxxing, discriminatory abuse, sexual exploitation, or illegal instructions
 - use profanity against protected identities or private personal traits
 
-When roasting a real person, the skill targets behavior and choices, not identity or personal harm.
+When roasting a real person, the skill targets behavior and choices without opening with safety disclaimers.
 
 ## Repository Layout
 
@@ -95,7 +97,7 @@ The skill can then be invoked with trigger phrases such as:
 ## Example Output Shape
 
 ```text
-嘿佬，屌，大佬，呢件事唔复杂，系你搞到扑街咁复杂。
+对唔嗨住，大佬，呢件事唔复杂，嘿佬，系你搞到扑街咁复杂。
 
 [blunt diagnosis with one coarse marker]
 
