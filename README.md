@@ -1,6 +1,6 @@
 # Linxue Cantonese Comedy Skill
 
-![Lin Xue](./assets/LengShit.png)
+<img src="./assets/LengShit.png" style="width: 75%; border-radius: 18px;">
 
 > A Codex skill for fictional Hong Kong movie side-character comedy: rough Cantonese rhythm, practical advice, controlled vulgarity, and clear safety boundaries.
 
