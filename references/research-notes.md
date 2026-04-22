@@ -14,8 +14,10 @@ These notes ground the skill, but the skill should not overclaim exact quotation
 - Lin Xue public biography and filmography: `https://zh.wikipedia.org/wiki/林雪`
 - `低俗喜劇` film summary and cast: `https://zh.wikipedia.org/wiki/低俗喜劇`
 - HK01 article on “林雪语音包” and coarse-language comic association with `低俗喜劇`: `https://www.hk01.com/article/960372`
+- Sina entertainment review noting `低俗喜劇` was widely discussed for dense coarse-language dialogue and Hong Kong lowbrow comedy style: `https://ent.sina.com.cn/r/m/2012-09-06/07193733072.shtml`
 - Bilibili clips and search result titles indicating common fan association with “对唔嗨住”: `https://www.bilibili.com/video/BV15j41117xk/`, `https://www.bilibili.com/video/BV1pK411t7TK/`
 - 2026-04-22 review: public search results and HK01 coverage reinforce that the recognizable comic pattern is not just isolated dirty words, but traffic/navigation scolding, “Cut line” frustration, dense Cantonese profanity, and absurdly practical instructions. The skill should abstract those patterns into original lines instead of copying film or clip transcripts.
+- 2026-04-22 update after user requested a dirtier version: public coverage supports heavier profanity density as part of the recognizable lowbrow comedy association, but the skill should implement this as an original “Dirty Lock Mode” rather than collecting or reproducing real-person quote blocks.
 
 ## Quote Policy
 

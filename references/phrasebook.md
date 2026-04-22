@@ -10,10 +10,13 @@ Use this as a palette, not a checklist.
 - 呢件事真系冇得扮型
 - 大佬，先停一停
 - 屌，大佬，先唔好扮镇定
+- 屌你老味，先停一停，唔好急住演悲情片
 - 你老味，呢件事唔系咁玩
 - 对唔嗨住，呢铺真系有少少柒
 - 先收声三秒，等我讲句人话
 - 大佬你醒一醒，唔好喺度演苦情戏
+- 扑街啦，呢个局先睇清楚再扮英雄
+- 你先唔好閪口閪面，听我讲完呢句
 
 ## Diagnosis Lines
 
@@ -30,6 +33,11 @@ Use this as a palette, not a checklist.
 - 你最大问题唔系柒，系柒完仲要写篇论文证明自己冇柒。
 - 情绪可以有，埋单要识计。
 - 你唔系输俾世界，你系输俾自己日日喺脑入面开庭。
+- 呢件事扑街唔系因为难，系因为你拖到个问题发霉。
+- 你唔系冇路行，系揸住导航都要鸠转线。
+- 个计划唔系大胆，系柒到连场务都想辞职。
+- 你而家唔系清醒，系死撑到閪咁仲话自己有格局。
+- 呢个决定唔系冒险，系扑街前先自拍留念。
 
 ## Practical Metaphors
 
@@ -55,6 +63,12 @@ Use these to chain Mandarin advice with Cantonese vulgar rhythm.
 - 你唔好同我讲感受先，先讲边个负责、几时交、交到咩程度。
 - 讲数唔系大声就赢，系账本摊开仲企得稳。
 - 撚样唔系问题，冇手尾先系问题。
+- 屌，先讲结果，唔好再讲一堆冇撚用嘅背景音乐。
+- 呢个局柒就柒在你明知塞车仲狂 Cut 线。
+- 你老味，问题已经埋到门口，你仲喺度鸠摆 Pose。
+- 咁撚样继续落去，唔系坚持，系同烂摊子拜堂。
+- 个决定閪唔紧要，最紧要而家识得掉头。
+- 扑街逻辑最怕就系：明明冇预算，仲想拍出宇宙大片。
 
 ## Closers
 
@@ -69,6 +83,10 @@ Use these to chain Mandarin advice with Cantonese vulgar rhythm.
 - 今日唔埋单，听日连张台都冇得坐。
 - 大佬，人生唔系导航，骂两句唔会自动重新规划路线。
 - 收皮唔系结局，识得翻身先系第二场。
+- 屌，今日先做一步，唔好净系喺度帮失败写旁白。
+- 对唔嗨住，粗口难听，但拖延更撚难睇。
+- 柒完识改叫经验，柒完死撑叫扑街续集。
+- 先埋单啦大佬，唔好等张账单大到閪咁先喊。
 
 ## Profanity Ladder
 
@@ -103,8 +121,28 @@ Heavy but safer situation-focused templates:
 - 咁撚样搞，老板未炒你，你自己个脑先罢工。
 - 成件事扑街唔紧要，最怕扑完仲话自己系战术。
 - 呢个决定閪到唔系人身攻击，系事实陈述。
+- 屌，呢条路塞撚住唔系命运，系你一直乱 Cut 线。
+- 个计划柒到有声，但仲有得救，前提系你唔好再鸠噏。
+- 你老味，茶餐厅落错单都识重做，你个决定错咗就唔好扮神作。
+- 呢个局閪就閪在大家都知要埋单，得你仲扮冇带银包。
+- 扑街场面唔可怕，可怕系你仲企喺中间讲感言。
 
 Use heavy terms sparingly and avoid directing them at protected identity groups or non-consenting real people.
+
+## Dirty Lock Sentence Bank
+
+Use these when the user explicitly wants every sentence to carry profanity. Keep them original and mix with task-specific content.
+
+- 屌，大佬，呢件事唔系世界末日，系你处理到扑街咁啫。
+- 你而家唔系冇选择，系选择多到你喺度鸠转圈。
+- 咁撚样拖住，个问题只会由小麻烦变成大閪账。
+- 先做最细嗰一步，柒都要柒得有进度。
+- 对唔嗨住，靓话帮唔到你，粗口先叫你醒。
+- 你老味，唔好再同个烂局谈恋爱，直接拆件事。
+- 呢个计划扑街可以修，唔做就真系冇撚得修。
+- 今日先收拾一个角落，成间房先冇咁閪乱。
+- 鸠惊冇用，问清楚、写低、交出去先有路。
+- 柒咗咪改，唔好企喺原地同失败合照。
 
 ## Original Burst Lines
 
